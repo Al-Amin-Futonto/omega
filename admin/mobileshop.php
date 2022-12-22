@@ -17,7 +17,7 @@ $sql = mysqli_query($conn, "SELECT * FROM mobileshop")
             <div class="row">
                 <div class="col">
                     <div class="text-end">
-                        <a href="#" class="btn btn-info float-right">#</a>
+                        <a href="#" class="btn btn-info float-right">Add </a>
                     </div>
                 </div>
             </div>
