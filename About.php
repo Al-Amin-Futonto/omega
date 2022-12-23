@@ -1,30 +1,5 @@
 <?php include 'include/header.php' ;?>
 <!-- <?php include 'include/connection.php' ;?> -->
-<!-- <section class="u-align-left u-clearfix u-section-1" id="sec-95eb">
-    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="fr-view u-clearfix u-rich-text u-text u-text-1">
-            <h1 style="text-align: left;">
-            </h1>
-            <p style="text-align: left;">
-                <span style="line-height: 2;">
-                <h1 style="text-align: left;">
-                <span style="line-height: 2;">We are Omega</span>
-            </h1>
-                    Sample text. Click to select the text box. Click again or double click to start editing the text. Dictum non consectetur a erat nam at. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Tellus mauris a
-                    diam maecenas sed enim ut sem. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam.&nbsp;
-                </span>
-            </p>
-            <h4 style="text-align: left;">What We Do</h4>
-            <p style="text-align: left;">
-                <span style="font-style: italic;">Euismod in pellentesque massa placerat. Risus quis varius quam quisque. Fermentum leo vel orci porta non pulvinar neque.&nbsp;</span>
-            </p>
-            <h4 style="text-align: left;">About Us</h4>
-            <p style="text-align: left;">
-                <span style="font-style: italic;">Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Viverra aliquet eget sit amet. Platea dictumst vestibulum rhoncus est.&nbsp;</span>
-            </p>
-        </div>
-    </div>
-</section> -->
 <br>
 <br>
 <br>
