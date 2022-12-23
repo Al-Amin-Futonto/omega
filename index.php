@@ -1,5 +1,7 @@
 <?php include 'include/header.php' ;?>
 <?php include 'include/connection.php' ;?>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
 
 
 
@@ -87,7 +89,8 @@
         </p>
         <img class="u-image u-image-default u-preserve-proportions u-image-3" src="images/ub-1x-v3.jpg" alt="" data-image-width="400" data-image-height="400">
         <h2 class="u-text u-text-palette-2-light-2 u-text-7">"​Explore The World Class Products With Omega"</h2>
-        <p class="u-text u-text-8"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;<br>
+        <p class="u-text u-text-8"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;  <a href="user_sign_us.php">Join us</a>
+<br>
         </p>
       </div>
     </section>
@@ -97,6 +100,4 @@
         <div class="u-absolute-hcenter u-border-3 u-border-palette-3-base u-line u-line-horizontal u-line-1" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction=""></div>
       </div>
     </section>
-    
-    
     <?php include 'include/footer.php' ;?>

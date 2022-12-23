@@ -15,11 +15,14 @@
        <br>
        <br>
      
-      <p>
-        <h1>
-          Our Best Products...
-        </h1>
-      </p>
+  <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="mt-2">Our All Products</h2><hr>
+           
+        </div>
+    </div>
+</div>
 
      <!-- <div class="d-flex justify-content-around">
       <div class="card" style="width: 18rem;">

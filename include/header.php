@@ -75,7 +75,7 @@
                             <li class="u-nav-item">
                                 <a
                                     class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-4-base u-text-palette-2-base"
-                                    href="user_sigh_up.php"
+                                    href="user_sign_us.php"
                                     style="padding: 6px 0px;"
                                 >
                                     Sign up
