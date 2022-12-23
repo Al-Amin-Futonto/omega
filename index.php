@@ -81,15 +81,15 @@
         <p class="u-text u-text-2"> "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</p>
         <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/handsome-confident-businessman-wearing-suit-holding-n1.jpg" alt="" data-image-width="2305" data-image-height="2482">
         <h2 class="u-text u-text-palette-3-light-2 u-text-3"> "Capable With Your Price"</h2>
-        <p class="u-text u-text-4"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;<br>
+        <p class="u-text u-text-4"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;<a href="Products.php">more products.</a><br>
         </p>
         <img class="u-image u-image-default u-preserve-proportions u-image-2" src="images/instructor-1x-v33.jpg" alt="" data-image-width="400" data-image-height="400">
         <h2 class="u-text u-text-palette-4-light-2 u-text-5"> "Always Something New"</h2>
-        <p class="u-text u-text-6"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;<br>
+        <p class="u-text u-text-6"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;<a href="About.php">show more.</a><br><br>
         </p>
         <img class="u-image u-image-default u-preserve-proportions u-image-3" src="images/ub-1x-v3.jpg" alt="" data-image-width="400" data-image-height="400">
         <h2 class="u-text u-text-palette-2-light-2 u-text-7">"​Explore The World Class Products With Omega"</h2>
-        <p class="u-text u-text-8"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;  <a href="user_sign_us.php">Join us</a>
+        <p class="u-text u-text-8"> "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&nbsp;  <a href="user_sign_us.php">Join us.</a>
 <br>
         </p>
       </div>
