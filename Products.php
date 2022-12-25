@@ -140,7 +140,7 @@ $result = $conn->query($productSQL);
             <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="admin/images/<?php echo $row['image'] ;?>" alt="" data-image-width="800" data-image-height="800">
             <h3 class="u-text u-text-default u-text-1"> <?php echo $row['name'] ; ?></h3>
             <h4 class="u-text u-text-default u-text-2"> $ <?php echo $row['price'] ; ?></h4>
-            <a href="" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-hover-white u-btn-1">Buy Now</a>
+            <a href="add_to_chat.php" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-hover-white u-btn-1">Buy Now</a>
           </div>
         </div>
         <?php endwhile ; ?>

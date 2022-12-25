@@ -25,7 +25,7 @@
         <a class="nav-link text-white" href="index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="products.php">Products</a>
+        <a class="nav-link text-white" href="admin_page.php">Products</a>
       </li>
       <li class="nav-item">
         <a class="nav-link text-white" href="mobileshop.php">Mobile Shop</a>
