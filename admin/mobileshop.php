@@ -17,7 +17,7 @@ $sql = mysqli_query($conn, "SELECT * FROM mobileshop")
             <div class="row">
                 <div class="col">
                     <div class="text-end">
-                        <a href="add_contents.php" class="btn btn-info float-right">Add Contents </a>
+                        <a href="add_contents.php" class="btn btn-info float-right">Add More Contents </a>
                     </div>
                 </div>
             </div>
@@ -25,6 +25,7 @@ $sql = mysqli_query($conn, "SELECT * FROM mobileshop")
             <table class="mobileshop-display-table table">
                 <thead>
                 <tr>
+                    <!-- <th>Id#</th> -->
                     <th>title</th>
                     <th>image</th>
                     <th>content</th>
@@ -38,7 +39,7 @@ $sql = mysqli_query($conn, "SELECT * FROM mobileshop")
                     <td><img src="uploaded_img/<?php echo $row['image']; ?>" height="100" alt=""></td>
                     <td><?php echo $row['content']; ?></td>
                     <td>
-                    <a href="edit_mobileshop_content.php.php?id=<?php echo $row['id']; ?>" class="btn btn-primary"> <i class="fas fa-edit"></i> Edit </a>
+                    <a href="edit_mobileshop_content.php?id=<?php echo $row['id']; ?>" class="btn btn-primary"> <i class="fas fa-edit"></i> Edit </a>
                     <a href="delete_content.php?delete=<?php echo $row['id']; ?>" class="btn btn-danger"> <i class="fas fa-trash"></i> Delete </a>
                     </td>
                 </tr>

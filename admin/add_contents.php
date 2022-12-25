@@ -68,7 +68,7 @@ $sql = mysqli_query($conn, "SELECT * FROM mobileshop")
        if($upload){
           move_uploaded_file($image_tmp_name, $image_folder);
           $message[] = 'your content added successfully';
-          header('Location:mobileshop.php');
+          header('location:mobileshop.php');
             // echo ($upload);
        }else{
           $message[] = 'could not add your content';

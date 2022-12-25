@@ -62,8 +62,16 @@ if(isset($message)){
 }
 
 ?>
+ </div>
+            <div class="row">
+                <div class="col">
+                    <div class="text-end">
+                        <a href="admin_page.php" class="btn btn-info float-right">Add More Product </a>
+                    </div>
+                </div>
+            </div>
    
-<div class="container">
+<!-- <div class="container">
 
    <div class="admin-product-form-container">
 
@@ -73,11 +81,9 @@ if(isset($message)){
          <input type="number" placeholder="enter product price" name="product_price" class="box">
          <input type="file" accept="image/png, image/jpeg, image/jpg" name="product_image" class="box">
          <input type="submit" class="btn" name="add_product" value="add product">
-         <a href="products.php" class="btn">go back!</a>
-
       </form>
 
-   </div>
+   </div> -->
 
    <?php
 

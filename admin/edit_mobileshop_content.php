@@ -24,7 +24,7 @@ if(isset($_POST['update_contents'])){
          move_uploaded_file($image_tmp_name, $image_folder);
          header('location:mobileshop.php');
       }else{
-         $$message[] = 'please fill out all!';  
+      $message[] = 'please fill out all!';  
       }
 
    }
@@ -38,7 +38,6 @@ if(isset($_POST['update_contents'])){
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -62,7 +61,7 @@ if(isset($_POST['update_contents'])){
 
    ?>
    
-   <form action="" method="post" enctype="multipart/form-data">
+   <!-- <form action="" method="post" enctype="multipart/form-data">
       <h3 class="title">update the content</h3>
       <input type="text" class="box" name="title" value="<?php echo $row['name']; ?>" placeholder="enter a title">
       <input type="file" class="box" name="image"  accept="image/png, image/jpeg, image/jpg">
@@ -70,7 +69,18 @@ if(isset($_POST['update_contents'])){
 
       <input type="submit" value="update content" name="update_contents" class="btn">
       <a href="mobileshop.php" class="btn">go back!</a>
-   </form>
+   </form> -->
+   
+   <form action="" method="POST" enctype="multipart/form-data">
+                <h3> Add New Content</h3>
+                
+                <p> title    :<input type="text" placeholder="Enter a title" name="title" class="form-control"> </p>                
+                <p> image    :<input type="file" accept="image/png, image/jpeg, image/jpg" name="image" class="form-control"> </p>
+                <p>content  :<input type="text" placeholder="Enter some Content " name="content" class="form-control"> </p>                
+
+
+                <input type="submit" class="btn btn-outline-primary" name="update_contents" value="Add Your Content">
+            </form>
  
    
 
