@@ -13,7 +13,8 @@ $result = $conn->query($sql);
 
 if($result){
     echo "Data insert successful!";
-    
+    header('Location:view_registers.php');
+
 }
 else{
     echo "Data insert Fail!";

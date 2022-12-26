@@ -37,12 +37,11 @@
       <li class="nav-item">
         <a class="nav-link text-white" href="view_user_registration.php">User Registars</a>
       </li>
-      <!-- <li class="nav-item">
-        <a class="nav-link text-white" href=".php">Register Now</a>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="profile.php">Logout</a>
       </li>
-      <li> -->
-      <a class="nav-link text-white">Logout</a>
-      </li>
+      <li>
+      
 
     </ul>
   </div>
