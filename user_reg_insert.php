@@ -1,17 +1,16 @@
 <?php
 include 'include/connection.php';
 
-$name       = $_POST['name'];
 $email      = $_POST['email'];
 $password   = $_POST['password'];
 
-$sql = "INSERT INTO user_registration(name,email,password) VALUES ('$name','$email','$password')" ;
+$sql = "INSERT INTO user_registration(email,password) VALUES ('$email','$password')" ;
 
 $result = $conn->query($sql);
 
 if($result){
     echo "Data insert successful!";
-    header('location:index.php');
+    header('location:user_sign_in.php');
 }
 else{
     echo "Data insert Fail!";

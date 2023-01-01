@@ -1,6 +1,7 @@
 <?php
 
-@include 'index.php';
+include 'include/header.php' ; 
+include 'include/connection.php' ; 
 
 $id = $_GET['edit'];
 
@@ -37,7 +38,7 @@ if(isset($_POST['update_product'])){
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/style1.css">
 </head>
 <body>
 

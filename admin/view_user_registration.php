@@ -14,7 +14,6 @@
                 <table class="table table-bordered">
                     <thead>
                         <th>Id#</th>
-                        <th>User Name</th>
                         <th>User Email</th>
                         <th>User Password</th>
                         <th>Action</th>
@@ -23,7 +22,6 @@
                         <?php while($row = $result->fetch_assoc()): ?>
                         <tr>
                             <td><?php echo $row['id'] ; ?></td>
-                            <td><?php echo $row['name'] ; ?></td>
                             <td><?php echo $row['email'] ; ?></td>
                             <td><?php echo $row['password'] ; ?></td>
                             <td>

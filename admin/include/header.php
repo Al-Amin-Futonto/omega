@@ -12,33 +12,37 @@
 <body>
     
 <header>
-<nav class="navbar navbar-expand-lg navbar-light bg-success text-white">
+<nav class="navbar navbar-expand-lg navbar-light bg-white text-info">
 
 <div class="container">
-<a class="navbar-brand text-white" href="index.php">OMEGA</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<a href="" class="u-image u-logo u-image-1" data-image-width="101" data-image-height="101">
+                    <img src="images/Omegalogo22.png" class="u-logo-image u-logo-image-1" />
+                </a>  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link text-white" href="index.php">Home</a>
+        <a class="nav-link text-info" href="index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="products.php">Products</a>
+        <a class="nav-link text-info" href="products.php">Products</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="mobileshop.php">Mobile Shop</a>
+        <a class="nav-link text-info" href="mobileshop.php">Mobile Shop</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="registration.php">Register Now</a>
+        <a class="nav-link text-info" href="registration.php">Register Now</a>
       </li>
       <li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="view_user_registration.php">User Registars</a>
+        <a class="nav-link text-info" href="view_user_registration.php">User Registars</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="profile.php">Logout</a>
+        <a class="nav-link text-info" href="view_new_user_registration.php">New User Registars</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-info" href="profile.php">Logout</a>
       </li>
       <li>
       
